@@ -43,5 +43,4 @@ you will be getting an email alert everyday at 8 o'clock which is for previous d
 Good Luck 
 
 ### Author
-Signature: hosi.ghorbani@gmail.com
 MrTshoot
