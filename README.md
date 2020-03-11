@@ -21,7 +21,7 @@ chmod 775 user_def.sh 
 
 and then execute script with 
 ```
-./user_def.sh command.
+./user_def.sh
 ```
 
 ### Method-2: Bash Script with Email Notification Alert  ======> user_def_alert.sh
@@ -35,7 +35,7 @@ chmod 775 user_def_alert.sh
 ```
 and then execute script with 
 ```
-./user_def_alert.sh command.
+./user_def_alert.sh
 ```
 
 #### Note: 
